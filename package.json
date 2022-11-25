@@ -1,7 +1,7 @@
 {
   "name": "reveal.js",
   "version": "4.4.0",
-  "description": "The HTML Presentation Framework",
+  "description": "Digital Presentation",
   "homepage": "https://revealjs.com",
   "subdomain": "revealjs",
   "main": "dist/reveal.js",
@@ -13,9 +13,9 @@
     "build": "gulp build"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "https://hakim.se"
+    "name": "alevtyna",
+    "email": "alevtyna.kazakova@cbs-mail.de"
+    
   },
   "repository": {
     "type": "git",
@@ -23,8 +23,7 @@
   },
   "engines": {
     "node": ">=10.0.0"
-  },
-  "keywords": [
+  },  "keywords": [
     "reveal",
     "slides",
     "presentation"
